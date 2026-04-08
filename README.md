@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmanral092006&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmanral092006" /> </p>
 
 <p align="left"><a href="https://mvnrepository.com/artifact/com.github.redouane59.twitter/twittered"><img src="https://badges.mvnrepository.com/badge/com.github.redouane59.twitter/twittered/badge.svg?label=Twitter" alt="Twitter"></a> </p>
+![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)
 
 
 - 🔭 I’m currently working on **Artificial Intellegence and Machine Learning**
