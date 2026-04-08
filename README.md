@@ -13,13 +13,13 @@
 <img align='right' src='https://programing-gifs.vercel.app/' widht=50 height=200 alt='samadpls/Programming-Gifs'></a>
 
 
-- 🔭 I’m currently working on **Artificial Intellegence and Machine Learning**
+-  I’m currently working on **Artificial Intellegence and Machine Learning**
 
-- 🌱 I’m currently learning **AI & Machine Learning**
+-  I’m currently learning **AI & Machine Learning**
 
 - 💬 Ask me about **Python, C++, C , Javascript, TypeScript,Data Analysis**
 
-- 📫 How to reach me **kartikmanral18@gmail.com**
+- <a href = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a> How to reach me **kartikmanral18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
