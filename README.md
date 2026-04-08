@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Manral</h1>
 <h3 align="center">A passionate Lerner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4%2F68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwivrOL75t6TAxWgd2wGHTBSCsQQnPAOegQIJBAB..i&w=800&h=600&hcb=2&ved=2ahUKEwivrOL75t6TAxWgd2wGHTBSCsQQnPAOegQIJBAB">
+<a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmanral092006&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmanral092006" /> </p>
 
@@ -11,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
-- 💬 Ask me about **Python, C++, C , Javascript, TypeScript, Backend(MERN,PERN)) ,Data Analysis**
+- 💬 Ask me about **Python, C++, C , Javascript, TypeScript,Data Analysis**
 
 - 📫 How to reach me **kartikmanral18@gmail.com**
 
@@ -30,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmanral092006&show_icons=true&locale=en" alt="kartikmanral092006" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmanral092006&" alt="kartikmanral092006" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kartikmanral092006&theme=sakura-x&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
