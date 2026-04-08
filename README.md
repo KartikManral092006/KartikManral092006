@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20%F0%9F%91%8B%2C%20I%27m%20Kartik%20Manral&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h1 align="center">Hi 👋, I'm Kartik Manral</h1>
 <h3 align="center">A passionate Lerner from India 🇮🇳</h3>
 
