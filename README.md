@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Kartik Manral</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Kartik Manral
+</h1>
 <h3 align="center">A passionate Lerner from India 🇮🇳</h3>
 
 
