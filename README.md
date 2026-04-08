@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmanral092006&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmanral092006" /> </p>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/manralkartik09) 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40kartikmanral)](https://twitter.com/manralkartik09) 
 
 
 - 🔭 I’m currently working on **Artificial Intellegence and Machine Learning**
