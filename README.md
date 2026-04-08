@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmanral092006&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmanral092006" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/manralkartik09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/manralkartik09?logo=twitter&style=for-the-badge" alt="https://x.com/manralkartik09" /></a> </p>
+<p align="left"> <a href="https://x.com/manralkartik09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/manralkartik09?logo=twitter&style=for-the-badge" alt="https://x.com/manralkartik09" /></a> </p>
 
 - 🔭 I’m currently working on **Artificial Intellegence and Machine Learning**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/manralkartik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/manralkartik09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/Kartik-manral-215215288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-manral-215215288/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/Kartik_manral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kartik_manral" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Kartik_manral_1809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kartik_manral_1809/" height="30" width="40" /></a>
+<a href="https://x.com/manralkartik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/manralkartik09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kartik-manral-215215288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kartik-manral-215215288/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Kartik_manral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kartik_manral" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Kartik_manral_1809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kartik_manral_1809/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
