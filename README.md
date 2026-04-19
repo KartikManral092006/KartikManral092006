@@ -2,13 +2,27 @@
 # 👋 Hi, I'm Kartik Manral
 **Backend Developer**
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Backend+Developer;AI+%26+ML+Enthusiast;Aspiring+LLM+Engineer" />
 </p>
 
+---
 
+## 🧑‍💻 About Me
+
+- 🎓 I’m a B.Tech CSE student at Graphic Era Hill University, Bhimtal (Batch 2023–2027)
+- 💻 I work on Backend Development 
+- 📈 Always open to contribute to meaningful projects.
+- 🌐 Actively seeking internships and opportunities in Software Development and Data Analytics
+- 💡 Currently Exploring **RAG's**, **MCPs**, and **MLOps** & **Vector Databases**
+
+--- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/rpUC5Vs2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartik-manral-215215288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manralkartik09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manralkartik09@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
 #### Languages 
@@ -39,8 +53,7 @@
 ![](https://streak-stats.demolab.com/?user=KartikManral092006&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikManral092006&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KartikManral092006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
 ## ✨ Believe
 
