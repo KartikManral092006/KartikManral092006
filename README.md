@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Kartik Manral
-**Backend Development | GenAI | AI Agents | RAG **
+**Backend Development | GenAI | AI Agents | RAG**
 
 ---
 
@@ -31,11 +31,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) !
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KartikManral092006&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KartikManral092006&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikManral092006&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
