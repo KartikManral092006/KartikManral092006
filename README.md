@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Kartik Manral
-**Backend Development | GenAI | AI Agents | RAG | Workflow Automations**
-
----
+<!-- Animated wave header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=200&section=header&text=Kartik%20Manral&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20GenAI%20%7C%20AI%20Agents%20%7C%20RAG%20%7C%20Automations&descSize=16&descAlignY=58" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Backend+Developer;AI+Learner;Aspiring+AI+Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-manral-215215288/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/manralkartik09"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:manralkartik09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KartikManral092006&label=Profile%20views&color=0A66C2&style=flat" />
 </p>
 
 ---
@@ -16,11 +23,6 @@
 - 📈 Always open to contribute to meaningful projects.
 - 🌐 Actively seeking internships and opportunities in Software Development and AI Engineering
 - 💡 Currently Exploring **RAGs**, **MCPs**, **MLOps** & **Vector Databases**
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-manral-215215288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manralkartik09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manralkartik09@gmail.com)
 
 ---
 
@@ -46,11 +48,34 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikManral092006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=KartikManral092006&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikManral092006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikManral092006/KartikManral092006/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikManral092006/KartikManral092006/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/KartikManral092006/KartikManral092006/output/github-snake.svg" />
+</picture>
+
+---
+
 ## ✨ Believe
 
 > "Be Stronger than your Excuses"
 
----
-[![](https://komarev.com/ghpvc/?username=KartikManral092006&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0A66C2&height=120&section=footer" />
+</p>
