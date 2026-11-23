@@ -7,7 +7,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=B.Tech+CSE+Student;Backend+Developer;AI+Learner;Aspiring+AI+Engineer" />
 </p>
 
+<!-- Portfolio button -->
 <p align="center">
+  <a href="https://kartikmanral092006.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-kartikmanral092006.github.io-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A66C2" alt="Visit my portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://kartikmanral092006.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kartik-manral-215215288/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/manralkartik09"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
   <a href="mailto:manralkartik09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
